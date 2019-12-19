@@ -1,5 +1,5 @@
 class word():
-    def __init__(self):
+    def __init__(self): #constructor for a class. The self parameter refers to the instance of the object.
         self.s = ""
 
     def getString(self):
