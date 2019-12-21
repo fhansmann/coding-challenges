@@ -64,16 +64,16 @@ bag,hello,without,world
 
 #### Question 9:
 Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.  
-Suppose the following input is supplied to the program:  
-Hello world
-Practice makes perfect
-Then, the output should be:
-HELLO WORLD
+Suppose the following input is supplied to the program:<br/>
+Hello world<br/>
+Practice makes perfect<br/>
+Then, the output should be:<br/>
+HELLO WORLD<br/>
 PRACTICE MAKES PERFECT
 
 #### Question 10:
-Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically.  
-Suppose the following input is supplied to the program:  
-hello world and practice makes perfect and hello world again  
-Then, the output should be:  
+Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically.<br/>
+Suppose the following input is supplied to the program:<br/>
+hello world and practice makes perfect and hello world again<br/>
+Then, the output should be:<br/>
 again and hello makes perfect practice world
