@@ -1,5 +1,5 @@
 # Coding Challenges
-100 code challenges in Python. I commit to trying to solve at least one per day.
+##100 code challenges in Python. I commit to trying to solve at least one per day.
 
 #### Question 1:  
 Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
@@ -57,9 +57,9 @@ Then, the output of the program should be:
 
 #### Question 8:
 Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically.  
-Suppose the following input is supplied to the program:
-without,hello,bag,world . 
-Then, the output should be:
+Suppose the following input is supplied to the program:<br/>
+without,hello,bag,world<br/>
+Then, the output should be:<br/>
 bag,hello,without,world
 
 #### Question 9:
