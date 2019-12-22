@@ -14,8 +14,8 @@ Suppose the following input is supplied to the program:
 8  
 Then, the output should be:  
 40320
-<br/>[Answer a) with functions](c_2a.py)
-<br/>[Answer b with looping)](c_2b.py)
+<br/>[Answer a) with a recursive function](c_2a.py)
+<br/>[Answer b) with loop](c_2b.py)
 
 #### Question 3:
 With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.  
