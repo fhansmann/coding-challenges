@@ -1,6 +1,6 @@
 # Coding Challenges 
-### 100 code challenges in Python :star: :v: :100:
-#### I commit to trying to solve at least one per day.<br/><br/>
+### 100 code challenges in Python 
+#### I commit to trying to solve at least one per day :star: :v: :100: <br/><br/>
 
 #### Question 1: 
 Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
