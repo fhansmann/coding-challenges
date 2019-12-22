@@ -2,7 +2,7 @@
 ### 100 code challenges in Python
 #### I commit to trying to solve at least one per day.<br/><br/>
 
-#### Question 1:  
+#### Question 1: [Answer](c_1.py)
 Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
 between 2000 and 3200 (both included).The numbers obtained should be printed in a comma-separated sequence on a single line.
 
