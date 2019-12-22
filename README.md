@@ -1,5 +1,5 @@
-# Coding Challenges
-### 100 code challenges in Python
+# Coding Challenges :star: :v: :100:
+### 100 code challenges in Python 
 #### I commit to trying to solve at least one per day.<br/><br/>
 
 #### Question 1: 
