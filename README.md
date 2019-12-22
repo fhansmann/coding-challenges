@@ -14,7 +14,8 @@ Suppose the following input is supplied to the program:
 8  
 Then, the output should be:  
 40320
-<br/>[Answer](c_2.py)
+<br/>[Answer a) with functions](c_2a.py)
+<br/>[Answer b with looping)](c_2b.py)
 
 #### Question 3:
 With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.  
@@ -22,8 +23,7 @@ Suppose the following input is supplied to the program:
 8 . 
 Then, the output should be:  
 {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
-<br/>[Answer](c_3a.py)
-<br/>[Answer](c_3b.py)
+<br/>[Answer](c_3.py)
 
 #### Question 4:
 Write a program which accepts a sequence of comma-separated numbers from console and generate a list and a tuple which contains every number.  
