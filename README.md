@@ -1,6 +1,6 @@
 # Coding Challenges 
 ### 100 code challenges in Python 
-#### I commit to trying to solve at least one per day :star: :v: :100: <br/><br/>
+#### I commit to trying to solve at least one per day :v: <br/><br/>
 
 #### Question 1: 
 Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
@@ -70,6 +70,7 @@ Suppose the following input is supplied to the program:<br/>
 without,hello,bag,world<br/>
 Then, the output should be:<br/>
 bag,hello,without,world
+<br/>[Answer](c_8.py)
 
 #### Question 9:
 Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.  
