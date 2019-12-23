@@ -80,6 +80,7 @@ Practice makes perfect<br/>
 Then, the output should be:<br/>
 HELLO WORLD<br/>
 PRACTICE MAKES PERFECT
+<br/>[Answer](c_9.py)
 
 #### Question 10:
 Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically.<br/>
