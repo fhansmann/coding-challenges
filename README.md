@@ -101,6 +101,7 @@ Then the output should be:<br/>
 #### Question 12:
 Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number.<br/>
 The numbers obtained should be printed in a comma-separated sequence on a single line.<br/>
+<br/>[Answer](c__12.py)
 
 #### Question 13:
 Write a program that accepts a sentence and calculate the number of letters and digits.<br/>
@@ -108,7 +109,83 @@ Suppose the following input is supplied to the program:<br/>
 hello world! 123<br/>
 Then, the output should be:<br/>
 LETTERS 10 <br/>
-DIGITS 3
+DIGITS 3 <br/>
+<br/>[Answer](c__13.py)
+
+#### Question 14:
+Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters. <br/>
+Suppose the following input is supplied to the program: <br/>
+Hello world! <br/>
+Then, the output should be: <br/>
+UPPER CASE 1 <br/>
+LOWER CASE 9 <br/>
+
+#### Question 15:
+Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a. <br/>
+Suppose the following input is supplied to the program: <br/>
+9 <br/>
+Then, the output should be: <br/>
+11106 <br/>
+
+#### Question 16:
+Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers. <br/>
+Suppose the following input is supplied to the program: <br/>
+1,2,3,4,5,6,7,8,9 <br/>
+Then, the output should be: <br/>
+1,3,5,7,9 <br/>
+
+#### Question 17:
+Write a program that computes the net amount of a bank account based a transaction log from console input. The transaction log format is shown as following: <br/>
+D 100 <br/>
+W 200 <br/>
+D means deposit while W means withdrawal. <br/>
+Suppose the following input is supplied to the program: <br/>
+D 300 <br/>
+D 300 <br/>
+W 200 <br/>
+D 100 <br/>
+Then, the output should be: <br/>
+500 <br/>
+
+#### Question 18:
+A website requires the users to input username and password to register. Write a program to check the validity of password input by users. <br/>
+Following are the criteria for checking the password: <br/>
+1. At least 1 letter between [a-z] <br/>
+2. At least 1 number between [0-9] <br/>
+1. At least 1 letter between [A-Z] <br/>
+3. At least 1 character from [$#@] <br/>
+4. Minimum length of transaction password: 6 <br/>
+5. Maximum length of transaction password: 12 <br/>
+Your program should accept a sequence of comma separated passwords and will check them according to the above criteria. Passwords that match the criteria are to be printed, each separated by a comma. <br/>
+Example <br/>
+If the following passwords are given as input to the program: <br/>
+ABd1234@1,a F1#,2w3E*,2We3345 <br/>
+Then, the output of the program should be: <br/>
+ABd1234@1 <br/>
+
+#### Question 19:
+You are required to write a program to sort the (name, age, height) tuples by ascending order where name is string, age and height are numbers. The tuples are input by console. The sort criteria is: <br/>
+1: Sort based on name; <br/>
+2: Then sort based on age; <br/>
+3: Then sort by score. <br/>
+The priority is that name > age > score. <br/>
+If the following tuples are given as input to the program: <br/>
+Tom,19,80 <br/>
+John,20,90 <br/>
+Jony,17,91 <br/>
+Jony,17,93 <br/>
+Json,21,85 <br/>
+Then, the output of the program should be: <br/>
+[('John', '20', '90'), ('Jony', '17', '91'), ('Jony', '17', '93'), ('Json', '21', '85'), ('Tom', '19', '80')] <br/>
+
+#### Question 20:
+Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n. <br/>
+
+
+
+
+
+
 
 
 
