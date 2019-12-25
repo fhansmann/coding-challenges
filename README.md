@@ -95,13 +95,13 @@ Write a program which accepts a sequence of comma separated 4 digit binary numbe
 Example:<br/>
 0100,0011,1010,1001<br/>
 Then the output should be:<br/>
-1010
-<br/>[Answer](c__11.py)
+1010 <br/>
+[Answer](c__11.py)
 
 #### Question 12:
 Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number.<br/>
 The numbers obtained should be printed in a comma-separated sequence on a single line.<br/>
-<br/>[Answer](c__12.py)
+[Answer](c__12.py)
 
 #### Question 13:
 Write a program that accepts a sentence and calculate the number of letters and digits.<br/>
@@ -110,7 +110,7 @@ hello world! 123<br/>
 Then, the output should be:<br/>
 LETTERS 10 <br/>
 DIGITS 3 <br/>
-<br/>[Answer](c__13.py)
+[Answer](c__13.py)
 
 #### Question 14:
 Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters. <br/>
