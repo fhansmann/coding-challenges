@@ -119,6 +119,7 @@ Hello world! <br/>
 Then, the output should be: <br/>
 UPPER CASE 1 <br/>
 LOWER CASE 9 <br/>
+[Answer](c__14.py)
 
 #### Question 15:
 Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a. <br/>
@@ -126,6 +127,7 @@ Suppose the following input is supplied to the program: <br/>
 9 <br/>
 Then, the output should be: <br/>
 11106 <br/>
+[Answer](c__15.py)
 
 #### Question 16:
 Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers. <br/>
