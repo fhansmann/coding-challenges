@@ -135,6 +135,7 @@ Suppose the following input is supplied to the program: <br/>
 1,2,3,4,5,6,7,8,9 <br/>
 Then, the output should be: <br/>
 1,3,5,7,9 <br/>
+[Answer](c__16.py)
 
 #### Question 17:
 Write a program that computes the net amount of a bank account based a transaction log from console input. The transaction log format is shown as following: <br/>
@@ -148,6 +149,7 @@ W 200 <br/>
 D 100 <br/>
 Then, the output should be: <br/>
 500 <br/>
+[Answer](c__17.py)
 
 #### Question 18:
 A website requires the users to input username and password to register. Write a program to check the validity of password input by users. <br/>
