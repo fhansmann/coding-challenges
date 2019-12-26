@@ -166,6 +166,7 @@ If the following passwords are given as input to the program: <br/>
 ABd1234@1,a F1#,2w3E*,2We3345 <br/>
 Then, the output of the program should be: <br/>
 ABd1234@1 <br/>
+[Answer](c__18.py)
 
 #### Question 19:
 You are required to write a program to sort the (name, age, height) tuples by ascending order where name is string, age and height are numbers. The tuples are input by console. The sort criteria is: <br/>
