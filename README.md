@@ -182,10 +182,11 @@ Jony,17,93 <br/>
 Json,21,85 <br/>
 Then, the output of the program should be: <br/>
 [('John', '20', '90'), ('Jony', '17', '91'), ('Jony', '17', '93'), ('Json', '21', '85'), ('Tom', '19', '80')] <br/>
+[Answer](c__19.py)
 
 #### Question 20:
 Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n. <br/>
-
+[Answer](c__20.py)
 
 
 
