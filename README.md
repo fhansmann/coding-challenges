@@ -206,8 +206,22 @@ Then, the output of the program should be: <br/>
 2 <br/>
 [Answer](c__21.py)
 
+#### Question 22:
+Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically. 
+Suppose the following input is supplied to the program: <br/>
+New to Python or choosing between Python 2 and Python 3? Read Python 2 or Python 3. <br/>
+Then, the output should be: <br/>
+2:2 <br/>
+3.:1 <br/>
+3?:1 <br/>
+New:1 <br/>
+Python:5 <br/>
+Read:1 <br/>
+and:1 <br/>
+between:1 <br/>
+choosing:1 <br/>
+or:2 <br/>
+to:1 <br/>
 
-
-
-
-
+#### Question 23:
+Write a method which can calculate square value of number, using the ** operator <br/>
