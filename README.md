@@ -188,7 +188,23 @@ Then, the output of the program should be: <br/>
 Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n. <br/>
 [Answer](c__20.py)
 
-
+#### Question 21:
+A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps. <br/> The trace of robot movement is shown as the following: <br/>
+UP 5 <br/>
+DOWN 3 <br/>
+LEFT 3 <br/>
+RIGHT 2 <br/>
+distance i <br/>
+The numbers after the direction are steps. Please write a program to compute the distance from current position after a sequence of movement and original point. If the distance is a float, then just print the nearest integer.<br/>
+Example: <br/>
+If the following tuples are given as input to the program: <br/>
+UP 5 <br/>
+DOWN 3 <br/>
+LEFT 3 <br/>
+RIGHT 2 <br/>
+Then, the output of the program should be: <br/>
+2 <br/>
+[Answer](c__21.py)
 
 
 
