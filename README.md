@@ -225,3 +225,4 @@ to:1 <br/>
 
 #### Question 23:
 Write a method which can calculate square value of number, using the ** operator <br/>
+[Answer](c__23.py)
