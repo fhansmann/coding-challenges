@@ -222,7 +222,16 @@ between:1 <br/>
 choosing:1 <br/>
 or:2 <br/>
 to:1 <br/>
-[Answer](c__22.py)<br/>
+[Answer](c__22.py)
+
 #### Question 23:
 Write a method which can calculate square value of number, using the ** operator <br/>
 [Answer](c__23.py)
+
+#### Question 24:
+Python has many built-in functions, and if you do not know how to use it, you can read document online or find some books. But Python has a built-in document function for every built-in functions.<br/>
+Please write a program to print some Python built-in functions documents, such as abs(), int(), input() and add document for your own 
+function. <br/>
+
+#### Question 25:
+Define a class, which have a class parameter and have a same instance parameter.<br/>
