@@ -222,7 +222,7 @@ between:1 <br/>
 choosing:1 <br/>
 or:2 <br/>
 to:1 <br/>
-
+[Answer](c__22.py)<br/>
 #### Question 23:
 Write a method which can calculate square value of number, using the ** operator <br/>
 [Answer](c__23.py)
