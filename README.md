@@ -236,3 +236,6 @@ function. <br/>
 #### Question 25:
 Define a class, which have a class parameter and have a same instance parameter.<br/>
 [Answer](c__25.py)
+
+#### Question 26:
+Define a function with two numbers as arguments. You can compute the sum in the function and return the value.
