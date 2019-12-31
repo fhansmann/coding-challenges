@@ -235,3 +235,4 @@ function. <br/>
 
 #### Question 25:
 Define a class, which have a class parameter and have a same instance parameter.<br/>
+[Answer](c__25.py)
