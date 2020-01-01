@@ -239,5 +239,21 @@ Define a class, which have a class parameter and have a same instance parameter.
 [Answer](c__25.py)
 
 #### Question 26:
-Define a function with two numbers as arguments. You can compute the sum in the function and return the value.
+Define a function with two numbers as arguments. You can compute the sum in the function and return the value.<br/>
 [Answer](c__26.py)
+
+#### Question 27:
+Define a function that can convert a integer into a string and print it in console.<br/>
+[Answer](c__27.py)
+
+#### Question 28:
+Define a function that can receive two integral numbers in string form and compute their sum and then print it in console.<br/>
+[Answer](c__28.py)
+
+#### Question 29:
+Define a function that can accept two strings as input and concatenate them and then print it in console.<br/>
+[Answer](c__29.py)
+
+#### Question 30:
+Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print al l strings line by line.<br/>
+[Answer](c__30.py)
