@@ -232,6 +232,7 @@ Write a method which can calculate square value of number, using the ** operator
 Python has many built-in functions, and if you do not know how to use it, you can read document online or find some books. But Python has a built-in document function for every built-in functions.<br/>
 Please write a program to print some Python built-in functions documents, such as abs(), int(), input() and add document for your own 
 function. <br/>
+[Answer](c__24.py)
 
 #### Question 25:
 Define a class, which have a class parameter and have a same instance parameter.<br/>
@@ -239,3 +240,4 @@ Define a class, which have a class parameter and have a same instance parameter.
 
 #### Question 26:
 Define a function with two numbers as arguments. You can compute the sum in the function and return the value.
+[Answer](c__26.py)
