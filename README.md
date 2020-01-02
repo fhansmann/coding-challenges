@@ -255,5 +255,25 @@ Define a function that can accept two strings as input and concatenate them and 
 [Answer](c__29.py)
 
 #### Question 30:
-Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print al l strings line by line.<br/>
+Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print all strings line by line.<br/>
 [Answer](c__30.py)
+
+#### Question 31:
+Define a function that can accept an integer number as input and print the "It is an even number" if the number is even, otherwise print "It is an odd number".<br/>
+[Answer](c__31.py)
+
+#### Question 32:
+Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.<br/>
+
+#### Question 33:
+Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.<br/>
+
+#### Question 34:
+Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the values only.<br/>
+
+#### Question 35:
+Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the keys only.<br/>
+
+
+
+
