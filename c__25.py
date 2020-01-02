@@ -7,7 +7,7 @@ class Person:
         self.name = name
 
 jeffrey = Person("Jeffrey")
-print "%s name is %s" % (Person.name, jeffrey.name)
+print("%s name is %s" % (Person.name, jeffrey.name))
 
 nico = Person()
 nico.name = "Nico"
