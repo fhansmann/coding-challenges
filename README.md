@@ -264,16 +264,38 @@ Define a function that can accept an integer number as input and print the "It i
 
 #### Question 32:
 Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.<br/>
+[Answer](c__32.py)
 
 #### Question 33:
 Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.<br/>
+[Answer](c__33.py)
 
 #### Question 34:
 Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the values only.<br/>
+[Answer](c__34.py)
 
 #### Question 35:
 Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the keys only.<br/>
+[Answer](c__35.py)
 
+#### Question 36:
+Define a function which can generate and print a list where the values are square of numbers between 1 and 20 (both included).<br/>
+[Answer](c__36.py)
 
+#### Question 37:
+Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print the first 5 elements in the list.<br/>
+[Answer](c__37.py)
+
+#### Question 38:
+Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print the last 5 elements in the list.<br/>
+[Answer](c__38.py)
+
+#### Question 39:
+Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print all values except the first 5 elements in the list.<br/>
+[Answer](c__39.py)
+
+#### Question 40:
+Define a function which can generate and print a tuple where the value are square of numbers between 1 and 20 (both included). 
+[Answer](c__40.py)<br/>
 
 
