@@ -296,6 +296,48 @@ Define a function which can generate a list where the values are square of numbe
 
 #### Question 40:
 Define a function which can generate and print a tuple where the value are square of numbers between 1 and 20 (both included). 
-[Answer](c__40.py)<br/>
+[Answer](c__40.py)
+
+#### Question 41:
+With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line. <br/>
+[Answer](c__41.py)
+
+#### Question 42:
+Write a program to generate and print another tuple whose values are even numbers in the given tuple (1,2,3,4,5,6,7,8,9,10). <br/>
+[Answer](c__42.py)
+
+#### Question 43:
+Write a program which accepts a string as input to print "Yes" if the string is "yes" or "YES" or "Yes", otherwise print "No".
+[Answer](c__43.py)
+
+#### Question 44:
+Write a program which can filter even numbers in a list by using filter function. The list is: [1,2,3,4,5,6,7,8,9,10].<br/>
+[Answer](c__44.py)
+
+#### Question 45:
+Write a program which can map() to make a list whose elements are square of elements in [1,2,3,4,5,6,7,8,9,10].<br/>
+[Answer](c__45.py)
+
+#### Question 46:
+Write a program which can map() and filter() to make a list whose elements are square of even number in [1,2,3,4,5,6,7,8,9,10].<br/>
+[Answer](c__46.py)
+
+#### Question 47:
+Write a program which can filter() to make a list whose elements are even number between 1 and 20 (both included).<br/>
+[Answer](c__47.py)
+
+#### Question 48:
+Write a program which can map() to make a list whose elements are square of numbers between 1 and 20 (both included).<br/>
+[Answer](c__48.py)
+
+#### Question 49:
+Define a class named American which has a static method called printNationality.<br/>
+[Answer](c__49.py)
+
+#### Question 50:
+Define a class named American and its subclass NewYorker.<br/>
+[Answer](c__50.py)
+
+
 
 
