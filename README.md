@@ -338,6 +338,12 @@ Define a class named American which has a static method called printNationality.
 Define a class named American and its subclass NewYorker.<br/>
 [Answer](c__50.py)
 
+#### Question 51:
+Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area. <br/>
+[Answer](c__51.py)
 
+#### Question 52:
+Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area. <br/>
+[Answer](c__52.py)
 
 
