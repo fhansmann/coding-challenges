@@ -1,4 +1,4 @@
-class American(object):
+class American:
     
     @staticmethod
     def printNationality():
