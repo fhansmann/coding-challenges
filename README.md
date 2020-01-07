@@ -346,4 +346,14 @@ Define a class named Circle which can be constructed by a radius. The Circle cla
 Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area. <br/>
 [Answer](c__52.py)
 
+#### Question 53:
+Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shape's area is 0 by default.<br/>
+[Answer](c__53.py)
 
+#### Question 54:
+Please raise a RuntimeError exception.<br/>
+[Answer](c__54.py)
+
+#### Question 55:
+Write a function to compute 5/0 and use try/except to catch the exceptions.<br/>
+[Answer](c__55.py)
