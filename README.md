@@ -357,3 +357,34 @@ Please raise a RuntimeError exception.<br/>
 #### Question 55:
 Write a function to compute 5/0 and use try/except to catch the exceptions.<br/>
 [Answer](c__55.py)
+
+#### Question 56:
+Define a custom exception class which takes a string message as attribute. Hints: To define a custom exception, we need to define a class inherited from Exception.<br/>
+[Answer](c__56.py)
+
+#### Question 57:
+Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.<br/>
+
+Example: If the following email address is given as input to the program: john@google.com <br/>
+
+Then, the output of the program should be: john <br/>
+
+In case of input data being supplied to the question, it should be assumed to be a console input. <br/>
+
+Hints: Use \w to match letters.<br/>
+
+[Answer](c__57.py)
+
+#### Question 58:
+
+Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the company name of a given email address. Both user names and company names are composed of letters only.<br/>
+
+Example: If the following email address is given as input to the program: john@google.com <br/>
+
+Then, the output of the program should be: google <br/>
+
+In case of input data being supplied to the question, it should be assumed to be a console input. <br/>
+
+Hints: Use \w to match letters.<br/>
+
+[Answer](c__58.py)
