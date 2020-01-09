@@ -388,3 +388,42 @@ In case of input data being supplied to the question, it should be assumed to be
 Hints: Use \w to match letters.<br/>
 
 [Answer](c__58.py)
+
+
+#### Question 58:
+Write a program which accepts a sequence of words separated by whitespace as input to print the words composed of digits only.<br/>
+Example: If the following words is given as input to the program:<br/>
+2 cats and 3 dogs.<br/>
+Then, the output of the program should be:<br/>
+['2', '3']<br/>
+In case of input data being supplied to the question, it should be assumed to be a console input.<br/>
+Hints:<br/>
+Use re.findall() to find all substring using regex.<br/>
+[Answer](c__58.py)
+
+#### Question 59:
+Print a unicode string "hello world".<br/>
+Hints:<br/>
+Use u'strings' format to define unicode string.<br/>
+[Answer](c__59.py)
+
+#### Question 60:
+Write a program to read an ASCII string and to convert it to a unicode string encoded by utf-8.<br/>
+Hints:<br/>
+Use unicode() function to convert.<br/>
+[Answer](c__60.py)
+
+#### Question 61:
+Write a special comment to indicate a Python source code file is in unicode.<br/>
+[Answer](c__61.py)
+
+#### Question 62:
+Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).<br/>
+Example: If the following n is given as input to the program:<br/>
+5<br/>
+Then, the output of the program should be:<br/>
+3.55<br/>
+In case of input data being supplied to the question, it should be assumed to be a console input.<br/>
+Hints:<br/>
+Use float() to convert an integer to a float<br/>
+[Answer](c__62.py)
