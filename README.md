@@ -399,25 +399,25 @@ Then, the output of the program should be:<br/>
 In case of input data being supplied to the question, it should be assumed to be a console input.<br/>
 Hints:<br/>
 Use re.findall() to find all substring using regex.<br/>
-[Answer](c__60.py)
+[Answer](c__59.py)
 
-#### Question 61:
+#### Question 60:
 Print a unicode string "hello world".<br/>
 Hints:<br/>
 Use u'strings' format to define unicode string.<br/>
-[Answer](c__61.py)
+[Answer](c__60.py)
 
-#### Question 62:
+#### Question 61:
 Write a program to read an ASCII string and to convert it to a unicode string encoded by utf-8.<br/>
 Hints:<br/>
 Use unicode() function to convert.<br/>
+[Answer](c__61.py)
+
+#### Question 62:
+Write a special comment to indicate a Python source code file is in unicode.<br/>
 [Answer](c__62.py)
 
 #### Question 63:
-Write a special comment to indicate a Python source code file is in unicode.<br/>
-[Answer](c__63.py)
-
-#### Question 64:
 Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).<br/>
 Example: If the following n is given as input to the program:<br/>
 5<br/>
@@ -426,4 +426,4 @@ Then, the output of the program should be:<br/>
 In case of input data being supplied to the question, it should be assumed to be a console input.<br/>
 Hints:<br/>
 Use float() to convert an integer to a float<br/>
-[Answer](c__64.py)
+[Answer](c__63.py)
