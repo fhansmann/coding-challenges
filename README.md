@@ -475,4 +475,43 @@ Use string.join() to join a list of strings.<br/>
 In case of input data being supplied to the question, it should be assumed to be a console input.<br/>
 [Answer](c__66.py)
 
+#### Question 67:
+Please write a program using generator to print the even numbers between 0 and n in comma separated form while n is input by console.<br/>
+Example:<br/>
+If the following n is given as input to the program:<br/>
+10<br/>
+Then, the output of the program should be:<br/>
+0,2,4,6,8,10<br/>
+Hints:<br/>
+Use yield to produce the next value in generator.<br/>
+In case of input data being supplied to the question, it should be assumed to be a console input.<br/>
+[Answer](c__67.py)
 
+#### Question 68:
+Please write a program using generator to print the numbers which can be divisible by 5 and 7 between 0 and n in comma separated form while n is input by console.<br/>
+Example:<br/>
+If the following n is given as input to the program:<br/>
+100<br/>
+Then, the output of the program should be:<br/>
+0,35,70<br/>
+Hints:<br/>
+Use yield to produce the next value in generator.<br/>
+In case of input data being supplied to the question, it should be assumed to be a console input.<br/>
+[Answer](c__68.py)
+
+#### Question 69:
+Please write assert statements to verify that every number in the list [2,4,6,8] is even.<br/>
+Hints:<br/>
+Use "assert expression" to make assertion.<br/>
+[Answer](c__69.py)
+
+#### Question 70:
+Please write a program which accepts basic mathematic expression from console and print the evaluation result.<br/>
+Example:<br/>
+If the following string is given as input to the program:<br/>
+35+3<br/>
+Then, the output of the program should be:<br/>
+38<br/>
+Hints:<br/>
+Use eval() to evaluate an expression.<br/>
+[Answer](c__70.py)
