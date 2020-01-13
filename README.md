@@ -517,25 +517,31 @@ Use eval() to evaluate an expression.<br/>
 [Answer](c__70.py)
 
 #### Question 71:
-Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.
-Hints:
-Use if/elif to deal with conditions.
+Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.<br/>
+Hints:<br/>
+Use if/elif to deal with conditions.<br/>
 [Answer](c__71.py)
 
 #### Question 72:
-Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.
-Hints:
-Use if/elif to deal with conditions.
+Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.<br/>
+Hints:<br/>
+Use if/elif to deal with conditions.<br/>
 [Answer](c__72.py)
 
 #### Question 73:
-Please generate a random float where the value is between 10 and 100 using Python math module.
-Hints:
-Use random.random() to generate a random float in [0,1].
+Please generate a random float where the value is between 10 and 100 using Python math module.<br/>
+Hints:<br/>
+Use random.random() to generate a random float in [0,1].<br/>
 [Answer](c__73.py)
 
 #### Question 74:
+Please generate a random float where the value is between 5 and 95 using Python math module.<br/>
+Hints:<br/>
+Use random.random() to generate a random float in [0,1].<br/>
 [Answer](c__74.py)
 
 #### Question 75:
+Please write a program to output a random even number between 0 and 10 inclusive using random module and list comprehension.<br/>
+Hints:<br/>
+Use random.choice() to a random element from a list.<br/>
 [Answer](c__75.py)
