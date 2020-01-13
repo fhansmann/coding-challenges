@@ -515,3 +515,27 @@ Then, the output of the program should be:<br/>
 Hints:<br/>
 Use eval() to evaluate an expression.<br/>
 [Answer](c__70.py)
+
+#### Question 71:
+Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.
+Hints:
+Use if/elif to deal with conditions.
+[Answer](c__71.py)
+
+#### Question 72:
+Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.
+Hints:
+Use if/elif to deal with conditions.
+[Answer](c__72.py)
+
+#### Question 73:
+Please generate a random float where the value is between 10 and 100 using Python math module.
+Hints:
+Use random.random() to generate a random float in [0,1].
+[Answer](c__73.py)
+
+#### Question 74:
+[Answer](c__74.py)
+
+#### Question 75:
+[Answer](c__75.py)
