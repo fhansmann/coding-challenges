@@ -1,4 +1,5 @@
 import math
+
 def bin_search(li, element):
     bottom = 0
     top = len(li)-1
@@ -15,5 +16,6 @@ def bin_search(li, element):
     return index
 
 li=[2,5,7,9,11,17,222]
+
 print(bin_search(li,11))
 print(bin_search(li,12))
