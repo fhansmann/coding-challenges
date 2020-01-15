@@ -523,9 +523,6 @@ Use if/elif to deal with conditions.<br/>
 [Answer](c__71.py)
 
 #### Question 72:
-Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.<br/>
-Hints:<br/>
-Use if/elif to deal with conditions.<br/>
 [Answer](c__72.py)
 
 #### Question 73:
@@ -545,3 +542,40 @@ Please write a program to output a random even number between 0 and 10 inclusive
 Hints:<br/>
 Use random.choice() to a random element from a list.<br/>
 [Answer](c__75.py)
+
+#### Question 76:
+Please write a program to output a random number, which is divisible by 5 and 7, between 0 and 10 inclusive using random module and list comprehension.<br/>
+Hints:<br/>
+Use random.choice() to a random element from a list.<br/>
+[Answer](c__76.py)
+
+#### Question 77:
+Please write a program to generate a list with 5 random numbers between 100 and 200 inclusive.<br/>
+Hints:<br/>
+Use random.sample() to generate a list of random values.<br/>
+[Answer](c__77.py)
+
+#### Question 78:
+Please write a program to randomly generate a list with 5 even numbers between 100 and 200 inclusive.<br/>
+Hints:<br/>
+Use random.sample() to generate a list of random values.<br/>
+[Answer](c__78.py)
+
+#### Question 79:
+Please write a program to randomly generate a list with 5 numbers, which are divisible by 5 and 7 , between 1 and 1000 inclusive.<br/>
+Hints:<br/>
+Use random.sample() to generate a list of random values.<br/>
+[Answer](c__79.py)
+
+#### Question 80:
+Please write a program to randomly print a integer number between 7 and 15 inclusive.<br/>
+Hints:<br/>
+Use random.randrange() to a random integer in a given range.<br/>
+[Answer](c__79.py)
+
+
+
+
+
+
+
