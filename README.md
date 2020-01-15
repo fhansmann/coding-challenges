@@ -523,6 +523,7 @@ Use if/elif to deal with conditions.<br/>
 [Answer](c__71.py)
 
 #### Question 72:
+Please write program to remove duplicates from two lists
 [Answer](c__72.py)
 
 #### Question 73:
@@ -532,21 +533,19 @@ Use random.random() to generate a random float in [0,1].<br/>
 [Answer](c__73.py)
 
 #### Question 74:
-Please generate a random float where the value is between 5 and 95 using Python math module.<br/>
-Hints:<br/>
-Use random.random() to generate a random float in [0,1].<br/>
+Please generate a random int where the value is between 5 and 95 using Python math module.<br/>
 [Answer](c__74.py)
 
 #### Question 75:
 Please write a program to output a random even number between 0 and 10 inclusive using random module and list comprehension.<br/>
 Hints:<br/>
-Use random.choice() to a random element from a list.<br/>
+Use random.choice() to generate a random element from a list.<br/>
 [Answer](c__75.py)
 
 #### Question 76:
 Please write a program to output a random number, which is divisible by 5 and 7, between 0 and 10 inclusive using random module and list comprehension.<br/>
 Hints:<br/>
-Use random.choice() to a random element from a list.<br/>
+Use random.choice() to generate a random element from a list.<br/>
 [Answer](c__76.py)
 
 #### Question 77:
