@@ -555,9 +555,7 @@ Use random.sample() to generate a list of random values.<br/>
 [Answer](c__77.py)
 
 #### Question 78:
-Please write a program to randomly generate a list with 5 even numbers between 100 and 200 inclusive.<br/>
-Hints:<br/>
-Use random.sample() to generate a list of random values.<br/>
+
 [Answer](c__78.py)
 
 #### Question 79:
