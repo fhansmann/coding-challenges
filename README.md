@@ -568,7 +568,7 @@ Use random.sample() to generate a list of random values.<br/>
 Please write a program to randomly print a integer number between 7 and 15 inclusive.<br/>
 Hints:<br/>
 Use random.randrange() to a random integer in a given range.<br/>
-[Answer](c__79.py)
+[Answer](c__80.py)
 
 
 
