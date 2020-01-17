@@ -570,9 +570,133 @@ Hints:<br/>
 Use random.randrange() to a random integer in a given range.<br/>
 [Answer](c__80.py)
 
+#### Question 81:
+Please write a program to compress and decompress the string "hello world!hello world!hello world!hello world!".<br/>
+Hints:<br/>
+Use zlib.compress() and zlib.decompress() to compress and decompress a string.<br/>
+[Answer](c__81.py)
 
+#### Question 82:
+Please write a program to print the running time of execution of "1+1" for 100 times.<br/>
+Hints:<br/>
+Use timeit() function to measure the running time.<br/>
+[Answer](c__82.py)
 
+#### Question 83:
+Please write a program to shuffle and print the list [3,6,7,8].<br/>
+Hints:<br/>
+Use shuffle() function to shuffle a list.<br/>
+[Answer](c__83.py)
 
+#### Question 84:
+Please write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Hockey","Football"].<br/>
+Hints:<br/>
+Use list[index] notation to get a element from a list.<br/>
+[Answer](c__84.py)
 
+#### Question 85:
+Please write a program to print the list after removing delete even numbers in [5,6,77,45,22,12,24].<br/>
+Hints:<br/>
+Use list comprehension to delete a bunch of element from a list.<br/>
+[Answer](c__85.py)
 
+#### Question 86:
+By using list comprehension, please write a program to print the list after removing delete numbers which are divisible by 5 and 7 in [12,24,35,70,88,120,155].<br/>
+Hints:<br/>
+Use list comprehension to delete a bunch of element from a list.<br/>
+[Answer](c__86.py)
 
+#### Question 87:
+By using list comprehension, please write a program to print the list after removing the 0th, 2nd, 4th,6th numbers in [12,24,35,70,88,120,155].<br/>
+Hints:<br/>
+Use list comprehension to delete a bunch of element from a list.<br/>
+Use enumerate() to get (index, value) tuple.<br/>
+[Answer](c__87.py)
+
+#### Question 88:
+By using list comprehension, please write a program generate a 3*5*8 3D array whose each element is 0.<br/>
+Hints:<br/>
+Use list comprehension to make an array.<br/>
+[Answer](c__88.py)
+
+#### Question 89:
+By using list comprehension, please write a program to print the list after removing the 0th,4th,5th numbers in [12,24,35,70,88,120,155].<br/>
+Hints:<br/>
+Use list comprehension to delete a bunch of element from a list.<br/>
+Use enumerate() to get (index, value) tuple.<br/>
+[Answer](c__89.py)
+
+#### Question 90:
+By using list comprehension, please write a program to print the list after removing the value 24 in [12,24,35,24,88,120,155].<br/>
+Hints:<br/>
+Use list's remove method to delete a value.<br/>
+[Answer](c__90.py)
+
+#### Question 91:
+With two given lists [1,3,6,78,35,55] and [12,24,35,24,88,120,155], write a program to make a list whose elements are intersection of the above given lists.<br/>
+Hints:<br/>
+Use set() and "&=" to do set intersection operation.<br/>
+[Answer](c__91.py)
+
+#### Question 92:
+With a given list [12,24,35,24,88,120,155,88,120,155], write a program to print this list after removing all duplicate values with original order reserved.<br/>
+Hints:<br/>
+Use set() to store a number of values without duplicate.<br/>
+[Answer](c__92.py)
+
+#### Question 93:
+Define a class Person and its two child classes: Male and Female. All classes have a method "getGender" which can print "Male" for Male class and "Female" for Female class.<br/>
+Hints:<br/>
+Use Subclass(Parentclass) to define a child class.<br/>
+[Answer](c__93.py)
+
+#### Question 94:
+Please write a program which count and print the numbers of each character in a string input by console.<br/>
+Example:<br/>
+If the following string is given as input to the program:<br/>
+a,2<br/>
+c,2<br/>
+b,2<br/>
+e,1<br/>
+d,1<br/>
+g,1<br/>
+f,1<br/>
+Hints:<br/>
+Use dict to store key/value pairs.<br/>
+Use dict.get() method to lookup a key with default value.<br/>
+[Answer](c__94.py)
+
+#### Question 95:
+Please write a program which accepts a string from console and print it in reverse order.<br/>
+Example:<br/>
+If the following string is given as input to the program:<br/>
+rise to vote sir<br/>
+Then, the output of the program should be:<br/>
+ris etov ot esir<br/>
+Hints:<br/>
+Use list[::-1] to iterate a list in a reverse order.<br/>
+[Answer](c__95.py)
+
+#### Question 96:
+Please write a program which accepts a string from console and print the characters that have even indexes.<br/>
+Example:<br/>
+If the following string is given as input to the program:<br/>
+H1e2l3l4o5w6o7r8l9d<br/>
+Then, the output of the program should be:<br/>
+Helloworld<br/>
+Hints:<br/>
+Use list[::2] to iterate a list by step 2<br/>
+[Answer](c__96.py)
+
+#### Question 97:
+Please write a program which prints all permutations of [1,2,3]<br/>
+Hints:<br/>
+Use itertools.permutations() to get permutations of list.<br/>
+[Answer](c__97.py)
+
+#### Question 98:
+Write a program to solve a classic ancient Chinese puzzle: <br/>
+We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have?<br/>
+Hint:<br/>
+Use for loop to iterate all possible solutions.<br/>
+[Answer](c__98.py)
