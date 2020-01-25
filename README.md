@@ -700,3 +700,4 @@ We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many
 Hint:<br/>
 Use for loop to iterate all possible solutions.<br/>
 [Answer](c__98.py)
+
